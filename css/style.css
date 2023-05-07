@@ -1,0 +1,22 @@
+body
+    {margin:0;
+        padding:0;
+        background-image:url("img/login.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    font-family: sans-serif;}
+
+div
+{box-sizing: border-box;
+    text-align: center;}
+
+
+label{color: rgb(255, 162, 0);}
+
+
+
+h1{color: rgb(0, 146, 209);text-align: center;}
+
+p{color: rgb(182, 171, 50);}
+a{color: rgb(241, 241, 243);}

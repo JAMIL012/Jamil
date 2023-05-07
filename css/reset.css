@@ -1,0 +1,10 @@
+body
+    {
+        background-image:url(img/reset.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    font-family: sans-serif;}
+
+    a
+    {color: rgb(222, 15, 15);}

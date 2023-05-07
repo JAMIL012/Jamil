@@ -1,0 +1,15 @@
+body
+    {margin: 0;
+        padding: 0;
+        background-image: url(img/register.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;}
+
+
+h1
+    {color: rgb(243, 13, 166);}
+label
+{color: rgb(16, 15, 15);}
+a{color: rgb(226, 7, 7); text-shadow: rgb(255, 0, 0);}
+
